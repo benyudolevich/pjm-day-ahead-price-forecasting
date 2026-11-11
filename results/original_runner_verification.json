@@ -1,0 +1,12 @@
+{
+  "October26_all24_match": true,
+  "six_missing_input_routes_match": true,
+  "predictions_do_not_depend_on_target": true,
+  "January2025_complete_input_max_difference": 5.684341886080802e-14,
+  "January2025_common_hours": 638,
+  "no_API_calls": true,
+  "October27_all24_match": true,
+  "full_2025_all_8735_match": true,
+  "full_2025_MAE": 7.223890692527511,
+  "full_2025_RMSE": 13.594886060791266
+}

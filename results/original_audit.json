@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "source_files_unchanged": 26,
+  "scored_hours": 8735,
+  "matched_tree_hours": 7699,
+  "fallback_hours": 1036,
+  "fallback_SSE_share_percent": 16.89011424478556,
+  "route_counts": {
+    "hybrid": 7699,
+    "geographic": 700,
+    "net_demand": 183,
+    "calendar": 66,
+    "dominion": 63,
+    "month_core": 24
+  },
+  "checks": [
+    "12 independent augmented-system ridge solves",
+    "12 saved backbone prediction replays",
+    "12 saved depth6 tree replays",
+    "tree leaf support and exact hyperparameters",
+    "unique physical-hour keys and signed honest target identity",
+    "prior-only score/train chronology",
+    "independently recomputed all-policy and matched MAE/RMSE",
+    "monthly diagnostic metric population checks",
+    "fallback complete forecast and zero correction checks",
+    "same-day neighbor ramp boundaries",
+    "gas D-1 flow and strictly earlier report date",
+    "source hashes unchanged"
+  ]
+}

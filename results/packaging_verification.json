@@ -1,0 +1,27 @@
+{
+  "verified_on": "2026-11-11",
+  "annual_replay": {
+    "all_8735_predictions_match": true,
+    "absolute_tolerance_dollars_per_MWh": 1e-06,
+    "hours": 8735,
+    "MAE": 7.223890692527511,
+    "RMSE": 13.594886060791266,
+    "bias": -2.289121946716256
+  },
+  "daily_replay": {
+    "date": "2026-10-27",
+    "all_24_predictions_match": true,
+    "daily_average": 57.00913497093425,
+    "peak_HE8_23_average": 60.916051718573875
+  },
+  "public_checks": {
+    "unit_tests_passed": 5,
+    "synthetic_demo_hours": 24,
+    "synthetic_demo_routes": {
+      "full_hybrid": 22,
+      "geographic": 2
+    }
+  },
+  "core_model_unchanged": true,
+  "publication_scope": "Original model and documentation, synthetic demo, aggregate results, figures; no bulk input data"
+}
